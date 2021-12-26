@@ -9,3 +9,8 @@ https://github.com/MagEpub/Automa3/blob/snippet1/Automa1.json
 
 *Manual trigger, open https://magepub.github.io/github.io/ in a new tab. Run this from any tab and it will open it in a new tab*
 
+
+
+Manual trigger, open https://magepub.github.io/github.io/ in a new tab, get the selector #\201C formtitle\201D from ABC Purchase Order
+
+Run this from any tab and it will open it in a new tab
